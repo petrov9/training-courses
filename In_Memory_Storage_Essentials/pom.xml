@@ -9,6 +9,10 @@
   <packaging>pom</packaging>
   <version>1.0</version>
 
+  <properties>
+    <hazelcast.version>5.0-BETA-1</hazelcast.version>
+  </properties>
+
   <modules>
 
     <module>IMap-Eviction</module>
